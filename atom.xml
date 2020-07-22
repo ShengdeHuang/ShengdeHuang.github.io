@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://blog.karichard.tk</id>
+    <id>https://ShengdeHuang.github.io</id>
     <title>HuangShengde</title>
-    <updated>2020-05-25T06:14:29.301Z</updated>
+    <updated>2020-07-22T15:10:08.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://blog.karichard.tk"/>
-    <link rel="self" href="https://blog.karichard.tk/atom.xml"/>
+    <link rel="alternate" href="https://ShengdeHuang.github.io"/>
+    <link rel="self" href="https://ShengdeHuang.github.io/atom.xml"/>
     <subtitle>Work hard ,persevere,&lt;br&gt;
 and everything else will come.</subtitle>
-    <logo>https://blog.karichard.tk/images/avatar.png</logo>
-    <icon>https://blog.karichard.tk/favicon.ico</icon>
+    <logo>https://ShengdeHuang.github.io/images/avatar.png</logo>
+    <icon>https://ShengdeHuang.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, HuangShengde</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea！]]></title>
-        <id>https://blog.karichard.tk/post/hello-world/</id>
-        <link href="https://blog.karichard.tk/post/hello-world/">
+        <id>https://ShengdeHuang.github.io/post/hello-world/</id>
+        <link href="https://ShengdeHuang.github.io/post/hello-world/">
         </link>
         <updated>2020-05-23T08:26:13.000Z</updated>
         <content type="html"><![CDATA[<p>平心静气，知行合一！</p>
