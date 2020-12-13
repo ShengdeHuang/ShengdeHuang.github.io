@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.yoloboy.me</id>
-    <title>HuangShengde</title>
-    <updated>2020-11-25T16:12:58.420Z</updated>
+    <title>yoloboy</title>
+    <updated>2020-12-13T15:59:31.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.yoloboy.me"/>
     <link rel="self" href="https://blog.yoloboy.me/atom.xml"/>
     <subtitle>Work hard, persevere, and everything else will come.</subtitle>
     <logo>https://blog.yoloboy.me/images/avatar.png</logo>
     <icon>https://blog.yoloboy.me/favicon.ico</icon>
-    <rights>All rights reserved 2020, HuangShengde</rights>
+    <rights>All rights reserved 2020, yoloboy</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea！]]></title>
         <id>https://blog.yoloboy.me/post/hello-world/</id>
