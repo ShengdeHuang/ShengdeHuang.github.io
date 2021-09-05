@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shengdehuang.github.io</id>
+    <title>阿德的个人站点</title>
+    <updated>2021-09-05T04:57:32.287Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://shengdehuang.github.io"/>
+    <link rel="self" href="https://shengdehuang.github.io/atom.xml"/>
+    <subtitle>Work hard, persevere, and everything else will come.</subtitle>
+    <logo>https://shengdehuang.github.io/images/avatar.png</logo>
+    <icon>https://shengdehuang.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 阿德的个人站点</rights>
+</feed>
